@@ -1,3 +1,5 @@
+![Dashboard_img](https://github.com/Alok-Kumar-Roul/Power-Bi-Projects-1/assets/79954408/c5b0a52d-7c65-4326-bbbb-53005422ea6e)
+
 # Power-Bi-Projects-1 :
 
 # **HR_ANALYTICS**
